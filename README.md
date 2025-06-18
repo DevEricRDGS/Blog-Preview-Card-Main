@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DevEricRDGS/Blog-Preview-Card-Main/blob/main/index.html)
-- Live Site URL: [Add live site URL here](https://devericrdgs.github.io/Blog-Preview-Card-Main/)
+- Solution URL: (https://github.com/DevEricRDGS/Blog-Preview-Card-Main/blob/main/index.html)
+- Live Site URL: (https://devericrdgs.github.io/Blog-Preview-Card-Main/)
 
 ## My process
 
